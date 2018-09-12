@@ -1,0 +1,7 @@
+pandoc -V geometry=margin=1in -o resume.pdf  \
+intro.md \
+education_and_experience.md \
+publications_and_presentations.md \
+research_interests_and_expertise.md \
+personal_interests.md \
+--variable=fontfamily:sans

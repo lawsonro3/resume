@@ -34,7 +34,7 @@
 
 * **Lawson, M., Li, Y., and Sale, D.**, 2011. "Development and Verification of a Computational Fluid Dynamics Model of a Horizontal-Axis Tidal Current Turbine". *Proceedings of the 30th International Conference on Ocean, Offshore, and Arctic Engineering*, Paper No. OMAE2011-49863, [https://doi.org/10.1115/OMAE2011-49863](https://doi.org/10.1115/OMAE2011-49863).
 
-* **Bir, G., Lawson, M., and Li, Y.**, 2011. "Structural Design of a Horizontal-axis Tidal Current Turbine Composite Blade". *Proceedings of the 30th International Conference on Ocean, Offshore, and Arctic Engineering**, Paper No. OMAE2011-50063, [https://doi.org/10.1115/OMAE2011-50063](https://doi.org/10.1115/OMAE2011-50063).
+* **Bir, G., Lawson, M., and Li, Y.**, 2011. "Structural Design of a Horizontal-axis Tidal Current Turbine Composite Blade". *Proceedings of the 30th International Conference on Ocean, Offshore, and Arctic Engineering*, Paper No. OMAE2011-50063, [https://doi.org/10.1115/OMAE2011-50063](https://doi.org/10.1115/OMAE2011-50063).
 
 * **Hargather, M., Lawson, M., Settles, G., Weinstein, L., and Gogineni, S.**, 2009. "Focusing-Schlieren PIV Measurements of a Supersonic Turbulent Boundary Layer". *47th AIAA Aerospace Sciences Meeting Including The New Horizons forum and Aerospace Exposition**, Paper No. AIAA 2009-69, [https://doi.org/10.2514/6.2009-69](https://doi.org/10.2514/6.2009-69).
 

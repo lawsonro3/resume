@@ -1,5 +1,10 @@
-# 24 September 2018 - For bat and wind turbine interaction proposal
+# 2018 September 24  - For bat and wind turbine interaction proposal
 Michael Lawson a senior scientist in the Wind and Water power program at NREL. His research focuses on numerical modeling of wind turbines using both high-fidelity CFD and reduced order numerical modeling techniques. Dr. Lawson has significant experience in numerical simulation code development and performance modeling of wind turbine systems and is currently supporting the Office of Science ExaWind Exascale Computing Project and the EERE A2e Wind Farm High Fidelity Modeling Project. For the past 7 years, Michael has also worked with NREL’s environmental scientists to study bat interactions with wind turbines using computational fluid dynamics models. Michael brings significant project management experience and has served as an M&O contractor to DOE in Washington D.C. for two years supporting the A2e initiative.
 
-# 30 August 2018 - For distribuited wind proposal
+# 2018 August 30 - For distributed wind proposal
 Michael Lawson a senior scientist in the Wind and Water power program at NREL. His research focuses on numerical modeling of wind turbines and wave energy systems using both high-fidelity CFD and reduced order numerical modeling techniques. Dr. Lawson has significant experience in simulation code development and performance modeling of wind turbine systems and is currently supporting the Office of Science ExaWind Exascale ComputingProject and the EERE A2e Wind Farm High Fidelity Modeling Project. He also brings significant project management experience and has served as an M&O contractor to DOE in Washington D.C. for two years supporting the A2e initiative.
+
+# 2019 Sept 10 - 2019 OREC Conference
+Dr. Michael Lawson a Senior Scientist in the Wind and Water Power Program at NREL where he is the Marine Energy Platform Lead. He has worked on Marine Energy technologies for over 10 years and his research has focused on the design and numerical analysis of wave and tidal energy systems. From 2015-2017, Michael worked at DOE on assignment from NREL, where he supported the development of the DOE Marine Energy Program's Strategy and several DOE-funded industry projects.
+
+

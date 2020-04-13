@@ -1,7 +1,15 @@
 ## Journal Publications
-* **Lawson, M, Jenne, D. Thresher, R., Houck, D.** In Preparation - Expected 2018, "Wind Turbines and Bat Mortality: Investigating the Bat Barotrauma from an Aerodynamics Perspective", Planned Submission to: *PLOS One*
+* **Lawson, M., Jenne, D., Thresher, R., Houck, D., Straw, B.**, 2020, "An Investigation into the Potential for Wind Turbines to Cause Barotrauma in Bats", *Submitted to PLOS ONE*.
 
-* **Fleming, P, Annoni, J., Churchfield, M., Martinez, T., Gruchalla, K., Lawson, M.**, 2017, "From wake steering to flow control", *Wind Energy Sciences*, [https://doi.org/10.5194/wes-3-243-2018](https://doi.org/10.5194/wes-3-243-2018).
+* **Kelley, M., Tom, N., Yu, Y., Wright, A., Lawson, M.**, 2020, "Annual Performance of the Second-Generation Variable-Geometry Oscillating Surge Wave Energy Converter", *Submitted to Renewable Energy*.
+
+* **Thomas, S., Ananthan, S., Yellapantula, S., Hu, J., Lawson, M., Sprague, M.**, 2019, "A Comparison of Classical and Aggregation-Based Algebraic Multigrid Preconditioners for High-Fidelity Simulation of Wind Turbine Incompressible Flows", *SIAM Journal on Scientific Computing*, [https://doi.org/10.1137/18M1179018](https://doi.org/10.1137/18M1179018).
+
+* **Fleming, P, Annoni, J., Churchfield, M., Martinez, T., Gruchalla, K., Lawson, M.**, 2018, "From wake steering to flow control", *Wind Energy Sciences*, [https://doi.org/10.5194/wes-3-243-2018](https://doi.org/10.5194/wes-3-243-2018).
+
+* **Tom N., Yu, Y., Wright, A., Lawson, M.**, 2017, "Balancing Power Absorption Against Structural Loads With Viscous Drag and Power-Takeoff Efficiency Considerations", *IEEE Journal of Oceanic Engineering*, [https://doi.org/10.1109/JOE.2017.2764393](https://doi.org/10.1109/JOE.2017.2764393).
+
+* **Tom N., Yu, Y., Wright, A., Lawson, M.**, 2017, "Pseudo-spectral control of a novel oscillating surge wave energy converter in regular waves for power optimization including load reduction", *Ocean Engineering*, [https://doi.org/10.1016/j.oceaneng.2017.03.027](https://doi.org/10.1016/j.oceaneng.2017.03.027)
 
 * **Tom N., Lawson, M., Yu, Y., Wright, A.**, 2016. "Spectral Modeling of an Oscillating Surge Wave Energy Converter with Control Surfaces". *Applied Ocean Research*, [https://doi.org/10.1016/j.apor.2016.01.006](https://doi.org/10.1016/j.apor.2016.01.006).
 
@@ -41,7 +49,9 @@
 * **Lawson, M., Sanders, P., and Thole, K.**, 2006. "Computational and Experimental Comparison of Tube Wall Heat Transfer Augmented by Winglets in Louvered Fin Heat Exchangers". *ASME 2006 International Mechanical Engineering Congress and Exposition*, Paper No. IMECE2006-14452, [https://doi.org/10.1115/IMECE2006-14452](https://doi.org/10.1115/IMECE2006-14452).
 
 ## Technical Reports
-* **Batty, H., Lawson, M.**, In Preparation - Expected 2018. "U.S. Department of Energy Water Power Technologies Office: Strategy for Marine and Hydrokinetic (MHK) Technologies R&D".
+* **Batty, H., Lawson, M.**, In Preparation. "U.S. Department of Energy Water Power Technologies Office: Strategy for Marine and Hydrokinetic (MHK) Technologies R&D".
+
+* **Lawson, Michael J., Melvin, Jeremy, Ananthan, Shreyas, Gruchalla, Kenny M., Rood, Jonathan S., and Sprague, Michael A.**, "Blade-Resolved, Single-Turbine Simulations Under Atmospheric Flow", NREL/TP-5000-72760, [https://doi.org/10.2172/1493479](https://doi.org/10.2172/1493479)
 
 * **Yu, Y., Lawson, M., Li, Y., Previsic, M., Epler, J., Lou, J.**, 2015. "Experimental Wave Tank Test for Reference Model 3 Floating-Point Absorber Wave Energy Converter Project", NREL/TP-5000-62951, [https://doi.org/10.2172/1169792](https://doi.org/10.2172/1169792).
 

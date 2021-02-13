@@ -51,7 +51,9 @@
 ## Technical Reports
 * **Batty, H., Lawson, M.**, In Preparation. "U.S. Department of Energy Water Power Technologies Office: Strategy for Marine and Hydrokinetic (MHK) Technologies R&D".
 
-* **Lawson, Michael J., Melvin, Jeremy, Ananthan, Shreyas, Gruchalla, Kenny M., Rood, Jonathan S., and Sprague, Michael A.**, "Blade-Resolved, Single-Turbine Simulations Under Atmospheric Flow", NREL/TP-5000-72760, [https://doi.org/10.2172/1493479](https://doi.org/10.2172/1493479)
+* **Kilcher, L., Fogarty, M., Lawson, M.**. 2021. "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://www.nrel.gov/docs/fy21osti/78773.pdf](https://www.nrel.gov/docs/fy21osti/78773.pdf)
+
+* **Lawson, Michael J., Melvin, Jeremy, Ananthan, Shreyas, Gruchalla, Kenny M., Rood, Jonathan S., and Sprague, Michael A.**, 2019. "Blade-Resolved, Single-Turbine Simulations Under Atmospheric Flow", NREL/TP-5000-72760, [https://doi.org/10.2172/1493479](https://doi.org/10.2172/1493479)
 
 * **Yu, Y., Lawson, M., Li, Y., Previsic, M., Epler, J., Lou, J.**, 2015. "Experimental Wave Tank Test for Reference Model 3 Floating-Point Absorber Wave Energy Converter Project", NREL/TP-5000-62951, [https://doi.org/10.2172/1169792](https://doi.org/10.2172/1169792).
 

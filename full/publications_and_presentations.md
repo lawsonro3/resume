@@ -1,7 +1,7 @@
 ## Journal Publications
-* **Lawson, M., Jenne, D., Thresher, R., Houck, D., Straw, B.**, 2020, "An Investigation into the Potential for Wind Turbines to Cause Barotrauma in Bats", *Submitted to PLOS ONE*.
+* **Lawson, M., Jenne, D., Thresher, R., Houck, D., Wimsatt, J., Straw, B.**, 2020, "An Investigation into the Potential for Wind Turbines to Cause Barotrauma in Bats", *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0242485](https://doi.org/10.1371/journal.pone.0242485).
 
-* **Kelley, M., Tom, N., Yu, Y., Wright, A., Lawson, M.**, 2020, "Annual Performance of the Second-Generation Variable-Geometry Oscillating Surge Wave Energy Converter", *Submitted to Renewable Energy*.
+* **Kelley, M., Tom, N., Yu, Y., Wright, A., Lawson, M.**, 2020, "Annual Performance of the Second-Generation Variable-Geometry Oscillating Surge Wave Energy Converter", *Renewable Energy*. [https://doi.org/10.1016/j.renene.2020.11.075](https://doi.org/10.1016/j.renene.2020.11.075.)
 
 * **Thomas, S., Ananthan, S., Yellapantula, S., Hu, J., Lawson, M., Sprague, M.**, 2019, "A Comparison of Classical and Aggregation-Based Algebraic Multigrid Preconditioners for High-Fidelity Simulation of Wind Turbine Incompressible Flows", *SIAM Journal on Scientific Computing*, [https://doi.org/10.1137/18M1179018](https://doi.org/10.1137/18M1179018).
 
@@ -51,7 +51,7 @@
 ## Technical Reports
 * **Batty, H., Lawson, M.**, In Preparation. "U.S. Department of Energy Water Power Technologies Office: Strategy for Marine and Hydrokinetic (MHK) Technologies R&D".
 
-* **Kilcher, L., Fogarty, M., Lawson, M.**. 2021. "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://www.nrel.gov/docs/fy21osti/78773.pdf](https://www.nrel.gov/docs/fy21osti/78773.pdf)
+* **Kilcher, L., Fogarty, M., Lawson, M.**, 2021, "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://www.nrel.gov/docs/fy21osti/78773.pdf](https://www.nrel.gov/docs/fy21osti/78773.pdf)
 
 * **Lawson, Michael J., Melvin, Jeremy, Ananthan, Shreyas, Gruchalla, Kenny M., Rood, Jonathan S., and Sprague, Michael A.**, 2019. "Blade-Resolved, Single-Turbine Simulations Under Atmospheric Flow", NREL/TP-5000-72760, [https://doi.org/10.2172/1493479](https://doi.org/10.2172/1493479).
 

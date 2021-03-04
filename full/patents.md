@@ -1,2 +1,2 @@
 ## Patents
-Wave Energy Conversion Incoperating Actuated Geometry, 2018, US 10066595 B2
+Wave Energy Conversion Incoperating Actuated Geometry, 2020, US Patent No. 10,662,918

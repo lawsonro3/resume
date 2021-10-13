@@ -61,7 +61,7 @@
 
 * **V. Neary, M. Previsic, R. Jepsen, M. Lawson, Y. Yu, A. Copping, A. Fontaine, K. Hallett, D. Murray**, 2014. "Methodology for Design and Economic Analysis of Marine Energy Conversion (MEC) Technologies". SAND2014-9040, [https://energy.sandia.gov/download/23111/](https://energy.sandia.gov/download/23111/).
 
-* **Lawson, M., Yu, Y., Weber, J., Coe, R., Neary, V.**, 2014. "Extreme Conditions Modeling Workshop Report", Dept. of Energy Report, DOE/GO-102014-4450; SNL/SAND2014-16384R; NREL/TP-5000-62305, [https://10.2172/1149224](https://10.2172/1149224).
+* **Lawson, M., Yu, Y., Weber, J., Coe, R., Neary, V.**, 2014. "Extreme Conditions Modeling Workshop Report", Dept. of Energy Report, DOE/GO-102014-4450; SNL/SAND2014-16384R; NREL/TP-5000-62305, [https://doi.org/10.2172/1149224](https://doi.org/10.2172/1149224).
 
 * **Musial, W., Lawson. M., Rooney, S.**, 2013. "Marine and Hydrokinetic Technology (MHK) Instrumentation, Measurement, and Computer Modeling Workshop", NREL TP-5000-57605, [https://doi.org/10.2172/1067933](https://doi.org/10.2172/1067933).
 

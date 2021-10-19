@@ -51,8 +51,6 @@
 * **Lawson, M., Sanders, P., and Thole, K.**, 2006. "Computational and Experimental Comparison of Tube Wall Heat Transfer Augmented by Winglets in Louvered Fin Heat Exchangers". *ASME 2006 International Mechanical Engineering Congress and Exposition*, Paper No. IMECE2006-14452, [https://doi.org/10.1115/IMECE2006-14452](https://doi.org/10.1115/IMECE2006-14452).
 
 ## Technical Reports
-* **Batty, H., Lawson, M.**, In Preparation. "U.S. Department of Energy Water Power Technologies Office: Strategy for Marine and Hydrokinetic (MHK) Technologies R&D".
-
 * **Kilcher, L., Fogarty, M., Lawson, M.**, 2021, "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://www.nrel.gov/docs/fy21osti/78773.pdf](https://www.nrel.gov/docs/fy21osti/78773.pdf)
 
 * **Lawson, Michael J., Melvin, Jeremy, Ananthan, Shreyas, Gruchalla, Kenny M., Rood, Jonathan S., and Sprague, Michael A.**, 2019. "Blade-Resolved, Single-Turbine Simulations Under Atmospheric Flow", NREL/TP-5000-72760, [https://doi.org/10.2172/1493479](https://doi.org/10.2172/1493479).

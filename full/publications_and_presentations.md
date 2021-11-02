@@ -1,4 +1,6 @@
 ## Journal Publications
+* **Sandhua, R., Tripp, C., Quon, E., Thedin, R., Lawson, M., Katzner, T., Brandes, D., Farmer, C., Miller, T., Draxla, C., Doubrawa, P., Williams, L., Duerr, A., Brahame, M.** Under review, "Stochastic agent-based model for predicting turbine-scale raptor movements during updraft-subsidized directional flights", *Journal of Ecological Modelling*.
+
 * **Dillon, T., Maurer, B., Lawson, M., Jenne, D., Manalang, D., Baca, B., Polagye, B.**, 2021, "Cost-optimal wave-powered persistent oceanographic observation", *Renewable Energy*. [https://doi.org/10.1016/j.renene.2021.08.127](https://doi.org/10.1016/j.renene.2021.08.127).
 
 * **Lawson, M., Jenne, D., Thresher, R., Houck, D., Wimsatt, J., Straw, B.**, 2020, "An Investigation into the Potential for Wind Turbines to Cause Barotrauma in Bats", *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0242485](https://doi.org/10.1371/journal.pone.0242485).

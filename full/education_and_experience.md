@@ -4,6 +4,7 @@
 **2006: M.S. Virginia Tech, Mechanical Engineering**
 
 * Advisor: Karen Thole
+* Thesis: Practical Applications of Delta Winglets in Compact Heat Exchangers with Louvered Fins
 
 **2010: Ph.D. The Pennsylvania State University, Mechanical Engineering**
 
@@ -11,17 +12,21 @@
 * Dissertation: A Fundamental Study of the Airflow and Odorant Transport Phenomena of Canine Olfaction
 
 ## Experience
-**2018-Present: Senior Scientist**    
+**2017-Present: Senior Scientist | Marine Energy Platform Lead | DOE M&O Support**    
 Wind and Water Power Program. National Renewable Energy Laboratory. Boulder, CO
 
-* Worked with a large multi-lab team to develop a blade-resolved wind farm simulation capability using the Nalu CFD code, with the ultimate goal of developing an exascale wind farm CFD modeling tool.
+* Supported the oversight and management of a $20M+ marine energy R&D portfolio at NREL.
+* Helped guide the rapid expansion of the NREL Water Power Program as it grew from approximately 15 full time staff in 2017 to more than 30 full time staff in 2021.
+* Lead the development of four successful ARPA-E SHARKS (Submarine Hydrokinetic And Riverine Kilo-megawatt Systems) proposals, including one prime award. These awards lead to over $1.4M in funding to NREL.
 * Supported the DOE Water Power Technologies office in (1) the development of the DOE Marine and Hydrokinetic Program Strategy, (2) in the development of DOE funding opportunity announcements, and (3) in the management of industry projects.
+* Worked with a large multi-lab team to develop a blade-resolved wind farm simulation capability using the Nalu CFD code, with the ultimate goal of developing an exascale wind farm CFD modeling tool.
 * Studied bat barotrauma from an aerodynamics perspective to help determine the likelihood that barotrauma is a significant contributor to wind turbine-related bat fatalities.
 * Studied wind turbine wake propagation under stable atmospheric conditions using the SOWFA CFD tool in order to understand wake physics with the objective of informing simplified wind farm wake models and developing wind farm control strategies.
 
-**2015-2017: Technical Advisor (Management & Operations Contractor)**    
+**2015-2017: Technical Advisor**    
 Wind and Water Power Technologies Office. U.S. Department of Energy. Washington, D.C.
 
+* M&O contractor assigned to the wind and water power programs from NREL.
 * Provided technical support for the Department of Energy Wind Program's Atmosphere to Electrons (A2e) program. A2e has the objective of using modern high performance computing and experimental techniques to optimize the performance of wind plants in order to significantly reduce the cost of wind energy.
 * Collaborated with Department of Energy staff to develop a U.S. strategy for the development of wave and tidal, ocean, and river current energy technologies.
 * Developed funding opportunities to support the deployment of utility-scale wave and tidal/ocean/river current technologies and supported the evaluation of applications.

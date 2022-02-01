@@ -26,7 +26,7 @@ Wind and Water Power Program. National Renewable Energy Laboratory. Boulder, CO
 **2015-2017: Technical Advisor**    
 Wind and Water Power Technologies Office. U.S. Department of Energy. Washington, D.C.
 
-* M&O contractor assigned to the wind and water power programs from NREL.
+* Technical expert assigned to the wind and water power programs from NREL.
 * Provided technical support for the Department of Energy Wind Program's Atmosphere to Electrons (A2e) program. A2e has the objective of using modern high performance computing and experimental techniques to optimize the performance of wind plants in order to significantly reduce the cost of wind energy.
 * Collaborated with Department of Energy staff to develop a U.S. strategy for the development of wave and tidal, ocean, and river current energy technologies.
 * Developed funding opportunities to support the deployment of utility-scale wave and tidal/ocean/river current technologies and supported the evaluation of applications.

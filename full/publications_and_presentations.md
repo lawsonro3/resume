@@ -53,9 +53,11 @@
 * **Lawson, M., Sanders, P., and Thole, K.**, 2006. "Computational and Experimental Comparison of Tube Wall Heat Transfer Augmented by Winglets in Louvered Fin Heat Exchangers". *ASME 2006 International Mechanical Engineering Congress and Exposition*, Paper No. IMECE2006-14452, [https://doi.org/10.1115/IMECE2006-14452](https://doi.org/10.1115/IMECE2006-14452).
 
 ## Technical Reports
-* **Kilcher, L., Fogarty, M., Lawson, M.**, 2021, "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://www.nrel.gov/docs/fy21osti/78773.pdf](https://www.nrel.gov/docs/fy21osti/78773.pdf)
+* **Thorson, Jacob., Matthews, Chris., Lawson, Michael., Hartmann, Kevin., Anwar, Muhammad Bashar., Jadun, Paige.,** "Unlocking the Potential of Marine Energy Using Hydrogen Generation Technologies", 2022. NREL/TP-5700-82538, [https://www.nrel.gov/docs/fy22osti/82538.pdf](https://www.nrel.gov/docs/fy22osti/82538.pdf).
 
-* **Lawson, Michael J., Melvin, Jeremy, Ananthan, Shreyas, Gruchalla, Kenny M., Rood, Jonathan S., and Sprague, Michael A.**, 2019. "Blade-Resolved, Single-Turbine Simulations Under Atmospheric Flow", NREL/TP-5000-72760, [https://doi.org/10.2172/1493479](https://doi.org/10.2172/1493479).
+* **Kilcher, L., Fogarty, M., Lawson, M.**, 2021. "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://www.nrel.gov/docs/fy21osti/78773.pdf](https://www.nrel.gov/docs/fy21osti/78773.pdf).
+
+* **Lawson, Michael J., Melvin, Jeremy, Ananthan, Shreyas, Gruchalla, Kenny M., Rood, Jonathan S., Sprague, Michael A.**, 2019. "Blade-Resolved, Single-Turbine Simulations Under Atmospheric Flow", NREL/TP-5000-72760, [https://doi.org/10.2172/1493479](https://doi.org/10.2172/1493479).
 
 * **Yu, Y., Lawson, M., Li, Y., Previsic, M., Epler, J., Lou, J.**, 2015. "Experimental Wave Tank Test for Reference Model 3 Floating-Point Absorber Wave Energy Converter Project", NREL/TP-5000-62951, [https://doi.org/10.2172/1169792](https://doi.org/10.2172/1169792).
 

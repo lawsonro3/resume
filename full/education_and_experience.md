@@ -15,7 +15,7 @@
 **2022-Present: Group Manager | Senior Scientist | Marine Energy Platform Lead**    
 **Water Power Porgram. National Renewable Energy Laboratory. Boulder, CO**
 
-* Lead a team of scientiests and engineers focused on the development of marine energy technologies
+* Lead a team of scientiests and engineers focused on the development of marine energy technologies.
 
 **2017-2022: Senior Scientist | Marine Energy Platform Lead**    
 **Wind and Water Power Program. National Renewable Energy Laboratory. Boulder, CO**

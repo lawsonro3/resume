@@ -12,8 +12,13 @@
 * Dissertation: A Fundamental Study of the Airflow and Odorant Transport Phenomena of Canine Olfaction
 
 ## Experience
-**2017-Present: Senior Scientist | Marine Energy Platform Lead | DOE M&O Support**    
-Wind and Water Power Program. National Renewable Energy Laboratory. Boulder, CO
+**2022-Present: Group Manager
+**Water Power Porgram. National Renewable Energy Laboratory. Boulder, CO**
+
+* Lead a team of scientiests and engineers focused on the development of marine energy technologies
+
+**2017-2022: Senior Scientist | Marine Energy Platform Lead**    
+**Wind and Water Power Program. National Renewable Energy Laboratory. Boulder, CO**
 
 * Supported the oversight and management of a $20M+ marine energy R&D portfolio at NREL.
 * Helped guide the rapid expansion of the NREL Water Power Program as it grew from approximately 15 full time staff in 2017 to more than 30 full time staff in 2021.
@@ -24,7 +29,7 @@ Wind and Water Power Program. National Renewable Energy Laboratory. Boulder, CO
 * Studied wind turbine wake propagation under stable atmospheric conditions using the SOWFA CFD tool in order to understand wake physics with the objective of informing simplified wind farm wake models and developing wind farm control strategies.
 
 **2015-2017: Technical Advisor**    
-Wind and Water Power Technologies Office. U.S. Department of Energy. Washington, D.C.
+**Wind and Water Power Technologies Office. U.S. Department of Energy. Washington, D.C.**
 
 * Technical expert from NREL assigned to support the DOE wind and water power programs.
 * Provided technical support for the Department of Energy Wind Program's Atmosphere to Electrons (A2e) program. A2e has the objective of using modern high performance computing and experimental techniques to optimize the performance of wind plants in order to significantly reduce the cost of wind energy.
@@ -34,7 +39,7 @@ Wind and Water Power Technologies Office. U.S. Department of Energy. Washington,
 * Supported the economic analysis and evaluation of wave and tidal/ocean/river current energy technologies.
 
 **2012-2014: Scientist**    
-Water Power Program. National Renewable Energy Laboratory. Boulder, CO
+**Water Power Program. National Renewable Energy Laboratory. Boulder, CO**
 
 * PI on the team developing WEC-Sim, an open-source wave energy converter simulation tool that has been widely adopted by industry and academia. The WEC-Sim project was a 4-year NREL-Sandia collaboration. I was the NREL lead developing the WEC-Sim project proposal and once the project was awarded I helped managing an NREL budget of more than $1M per year and coordinating work between researchers at NREL and Sandia.
 * Co-PI on an LDRD project with the objective of developing WEC technologies that have the ability to utilize advanced control strategies to improve performance and reduce loads on wave energy converters. I was the lead on the proposal development team and was responsible for management of the 3-year / $750K project
@@ -42,24 +47,24 @@ Water Power Program. National Renewable Energy Laboratory. Boulder, CO
 * Performed a techno-economic assessment of wave and tidal current energy technologies for the Unites States.
 
 **2010-2012: Postdoctoral Researcher**    
-Water Power Program. National Renewable Energy Laboratory. Boulder, CO
+**Water Power Program. National Renewable Energy Laboratory. Boulder, CO**
 
 * Developed a new version of the axial-flow rotor optimization code HARP-Opt.
 * Developed computational fluid dynamics (CFD) methods to simulate tidal current turbines.
 * Developed a discrete vortex method code to simulate vertical axis turbines.
 
 **2007-2010: National Defense Science and Engineering Graduate Fellow**    
-Gas Dynamics Lab and U.S. Navy Applied Research Lab. Penn State. University Park, PA.
+**Gas Dynamics Lab and U.S. Navy Applied Research Lab. Penn State. University Park, PA.**
 
 * Studied the fluid dynamics and odorant transport of canine olfaction.
 
 **2006-2007:  Contractor**    
-Aerodynamics Division. BMW. Munich, Germany
+**Aerodynamics Division. BMW. Munich, Germany**
 
 * Performed vehicle aerodynamics research using CFD techniques.
 
 **2005-2006: Graduate Research Assistant**    
-Experimental and Computational Combustion Lab. Virginia Tech. Blacksburg, VA
+**Experimental and Computational Combustion Lab. Virginia Tech. Blacksburg, VA**
 
 <!-- % Department of Energy Wind Power Technologies Office (on assignment from the National Renewable Eneryg Laboratory)
 % Washington, DC, 2017 – Present

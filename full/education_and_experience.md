@@ -12,7 +12,7 @@
 * Dissertation: A Fundamental Study of the Airflow and Odorant Transport Phenomena of Canine Olfaction
 
 ## Experience
-**2022-Present: Group Manager
+**2022-Present: Group Manager**
 **Water Power Porgram. National Renewable Energy Laboratory. Boulder, CO**
 
 * Lead a team of scientiests and engineers focused on the development of marine energy technologies

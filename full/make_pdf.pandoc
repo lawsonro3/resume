@@ -3,5 +3,6 @@ intro.md \
 education_and_experience.md \
 publications_and_presentations.md \
 research_interests_and_expertise.md \
+patents.md \
 personal_interests.md \
 --variable=fontfamily:sans

@@ -1,2 +1,2 @@
 ## Patents
-* **Thresher, Robert, Lawson, Michael, Tom, Nathan, Cotrell, Jason, Yu, Yi-Hsiang, and Wright, Alan.** Wave energy conversion incorporating actuated geometry. United States: N. p., 2020. [https://www.osti.gov/biblio/1650946-wave-energy-conversion-incorporating-actuated-geometry](https://www.osti.gov/biblio/1650946-wave-energy-conversion-incorporating-actuated-geometry)
+* **Thresher, R., Lawson, M., Tom, N., Cotrell, J., Yu, Y., and Wright, A.,** 2020. "Wave energy conversion incorporating actuated geometry". US Patent No. 10,662,918. [https://www.osti.gov/biblio/1650946-wave-energy-conversion-incorporating-actuated-geometry](https://www.osti.gov/biblio/1650946-wave-energy-conversion-incorporating-actuated-geometry)

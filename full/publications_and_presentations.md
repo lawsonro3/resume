@@ -53,7 +53,7 @@
 * **Lawson, M., Sanders, P., and Thole, K.**, 2006. "Computational and Experimental Comparison of Tube Wall Heat Transfer Augmented by Winglets in Louvered Fin Heat Exchangers". *ASME 2006 International Mechanical Engineering Congress and Exposition*, Paper No. IMECE2006-14452, [https://doi.org/10.1115/IMECE2006-14452](https://doi.org/10.1115/IMECE2006-14452).
 
 ## Technical Reports
-* **Thorson, Jacob., Matthews, Chris., Lawson, Michael., Hartmann, Kevin., Anwar, Muhammad Bashar., Jadun, Paige.,** "Unlocking the Potential of Marine Energy Using Hydrogen Generation Technologies", 2022. NREL/TP-5700-82538, [https://www.nrel.gov/docs/fy22osti/82538.pdf](https://www.nrel.gov/docs/fy22osti/82538.pdf).
+* **Thorson, J., Matthews, C., Lawson, M., Hartmann, K., Anwar, MB., Jadun, P.,** "Unlocking the Potential of Marine Energy Using Hydrogen Generation Technologies", 2022. NREL/TP-5700-82538, [https://www.nrel.gov/docs/fy22osti/82538.pdf](https://www.nrel.gov/docs/fy22osti/82538.pdf).
 
 * **Kilcher, L., Fogarty, M., Lawson, M.**, 2021. "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://www.nrel.gov/docs/fy21osti/78773.pdf](https://www.nrel.gov/docs/fy21osti/78773.pdf).
 

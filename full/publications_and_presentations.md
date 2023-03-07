@@ -34,7 +34,7 @@
 
 * **Quon, E., Platt, A., Yu, Y., Lawson, M.**, 2016. "Application of the Most Likely Extreme Response Method for Wave Energy Converters". *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2016-54751, [https://doi.org/10.1115/OMAE2016-54751](https://doi.org/10.1115/OMAE2016-54751).
 
-* **Tom N., Lawson, M., Yu, Y.**, 2015. "Recent Additions in the Modeling Capabilities of an Open-Source Wave Energy Converter Design Tool". *Proceedings of the Twenty-Fifth International Ocean and Polar Engineering Conference*, pp. 835-842.
+* **Tom N., Lawson, M., Yu, Y.**, 2015. "Recent Additions in the Modeling Capabilities of an Open-Source Wave Energy Converter Design Tool". *Proceedings of the Twenty-Fifth International Ocean and Polar Engineering Conference*, pp. 835-842. [https://www.osti.gov/biblio/1215174](https://www.osti.gov/biblio/1215174)
 
 * **Yu, Y., Van Rij, J., Coe, R., Lawson, M**, 2015. "Preliminary Wave Energy Converters Extreme Load Analysis". *Proceedings of the ASME 34th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2015-41532, [https://doi.org/10.1115/OMAE2014-24312](https://doi.org/10.1115/OMAE2014-24312).
 
@@ -53,9 +53,9 @@
 * **Lawson, M., Sanders, P., and Thole, K.**, 2006. "Computational and Experimental Comparison of Tube Wall Heat Transfer Augmented by Winglets in Louvered Fin Heat Exchangers". *ASME 2006 International Mechanical Engineering Congress and Exposition*, Paper No. IMECE2006-14452, [https://doi.org/10.1115/IMECE2006-14452](https://doi.org/10.1115/IMECE2006-14452).
 
 ## Technical Reports
-* **Thorson, J., Matthews, C., Lawson, M., Hartmann, K., Anwar, MB., Jadun, P.,** "Unlocking the Potential of Marine Energy Using Hydrogen Generation Technologies", 2022. NREL/TP-5700-82538, [https://www.nrel.gov/docs/fy22osti/82538.pdf](https://www.nrel.gov/docs/fy22osti/82538.pdf).
+* **Thorson, J., Matthews, C., Lawson, M., Hartmann, K., Anwar, MB., Jadun, P.,** "Unlocking the Potential of Marine Energy Using Hydrogen Generation Technologies", 2022. NREL/TP-5700-82538, [https://doi.org/10.2172/1871531](https://doi.org/10.2172/1871531).
 
-* **Kilcher, L., Fogarty, M., Lawson, M.**, 2021. "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://www.nrel.gov/docs/fy21osti/78773.pdf](https://www.nrel.gov/docs/fy21osti/78773.pdf).
+* **Kilcher, L., Fogarty, M., Lawson, M.**, 2021. "Marine Energy in the United States: An Overview of Opportunities". NREL/TP-5700-78773, [https://doi.org/10.2172/1766861](https://doi.org/10.2172/1766861).
 
 * **Lawson, Michael J., Melvin, Jeremy, Ananthan, Shreyas, Gruchalla, Kenny M., Rood, Jonathan S., Sprague, Michael A.**, 2019. "Blade-Resolved, Single-Turbine Simulations Under Atmospheric Flow", NREL/TP-5000-72760, [https://doi.org/10.2172/1493479](https://doi.org/10.2172/1493479).
 

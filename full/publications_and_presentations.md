@@ -28,6 +28,8 @@
 * **Lawson, M., and Thole, K.**, 2008. "Heat Transfer Augmentation Along the Tube Wall of a Louvered Fin Heat Exchanger Using Practical Delta Winglets". *International Journal of Heat and Mass Transfer*, [https://doi.org/10.1016/j.ijheatmasstransfer.2007.08.016](https://doi.org/10.1016/j.ijheatmasstransfer.2007.08.016).
 
 ## Conference Publications
+* **Wiley, W., Tran., TT, Lawson, M., & Barrington, M.**, 2023. "Computational Fluid Dynamics Study of a Cross-Flow Marine Hydrokinetic Turbine and the Combined Influence of Struts and Helical Blades". *Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2023-105021, [https://doi.org/10.1115/OMAE2023-105021](https://doi.org/10.1115/OMAE2023-105021)
+
 * **Lawson, M., Barahona Garzon, B., Wendt, F., Yu, Y., Michelen, C.**, 2016. "COER Hydrodynamic Modeling Competition: Modeling the Dynamic Response of a Floating Body Using the WEC-Sim and FAST Simulation Tools". *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2015-42288, [https://doi.org/10.1115/OMAE2015-42288](https://doi.org/10.1115/OMAE2015-42288).
 
 * **Tom N., Yu, Y., Wright, A., Lawson, M.**, 2016. "Balancing Power Absorption and Fatigue Loads in Irregular Waves for an Oscillating Surge Wave Energy Converter". *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2016-55046, [https://doi.org/10.1115/OMAE2016-55046](https://doi.org/10.1115/OMAE2016-55046).

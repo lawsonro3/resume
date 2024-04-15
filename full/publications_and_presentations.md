@@ -1,4 +1,6 @@
 ## Journal Publications
+* **Trent Dillon; Benjamin Maurer; Michael Lawson; Brian Polagye**, 2024, "Forecast-based stochastic optimization for a load powered by wave energy", *Renewable Energy*, [https://doi.org/10.1016/j.renene.2024.120330](https://doi.org/10.1016/j.renene.2024.120330)
+
 * **Sandhua, R., Tripp, C., Quon, E., Thedin, R., Lawson, M., Katzner, T., Brandes, D., Farmer, C., Miller, T., Draxla, C., Doubrawa, P., Williams, L., Duerr, A., Brahame, M.** 2022, "Stochastic agent-based model for predicting turbine-scale raptor movements during updraft-subsidized directional flights", *Journal of Ecological Modelling*. [https://doi.org/10.1016/j.ecolmodel.2022.109876](https://doi.org/10.1016/j.ecolmodel.2022.109876).
 
 * **Dillon, T., Maurer, B., Lawson, M., Jenne, D., Manalang, D., Baca, B., Polagye, B.**, 2022, "Cost-optimal wave-powered persistent oceanographic observation", *Renewable Energy*. [https://doi.org/10.1016/j.renene.2021.08.127](https://doi.org/10.1016/j.renene.2021.08.127).

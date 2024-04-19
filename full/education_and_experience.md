@@ -1,15 +1,15 @@
 ## Education
-**2005: B.S., Virginia Tech, Mechanical Engineering**
+**2010: Ph.D., The Pennsylvania State University, Mechanical Engineering**
+
+* Advisors: Dr. Gary Settles and Dr. Eric Paterson
+* Dissertation: A Fundamental Study of the Airflow and Odorant Transport Phenomena of Canine Olfaction
 
 **2006: M.S., Virginia Tech, Mechanical Engineering**
 
 * Advisor: Dr. Karen Thole
 * Thesis: Practical Applications of Delta Winglets in Compact Heat Exchangers with Louvered Fins
 
-**2010: Ph.D., The Pennsylvania State University, Mechanical Engineering**
-
-* Advisors: Dr. Gary Settles and Dr. Eric Paterson
-* Dissertation: A Fundamental Study of the Airflow and Odorant Transport Phenomena of Canine Olfaction
+**2005: B.S., Virginia Tech, Mechanical Engineering**
 
 ## Experience
 **2022-Present: Group Manager | Senior Scientist | Marine Energy Platform Lead**    

@@ -1,13 +1,15 @@
 ## Journal Publications
-* **Trent Dillon; Benjamin Maurer; Michael Lawson; Brian Polagye**, 2024, "Forecast-based stochastic optimization for a load powered by wave energy", *Renewable Energy*, [https://doi.org/10.1016/j.renene.2024.120330](https://doi.org/10.1016/j.renene.2024.120330)
+* **Niffenegger, J.S.; Brunik, K.; Deutsch, T.; Lawson, M.; Thresher, R.**, 2025, "Hybrid Energy-Powered Electrochemical Direct Ocean Capture Model", *Clean Technology*, [https://doi.org/10.3390/cleantechnol7030052](https://doi.org/10.3390/cleantechnol7030052)
 
-* **Sandhua, R., Tripp, C., Quon, E., Thedin, R., Lawson, M., Katzner, T., Brandes, D., Farmer, C., Miller, T., Draxla, C., Doubrawa, P., Williams, L., Duerr, A., Brahame, M.** 2022, "Stochastic agent-based model for predicting turbine-scale raptor movements during updraft-subsidized directional flights", *Journal of Ecological Modelling*. [https://doi.org/10.1016/j.ecolmodel.2022.109876](https://doi.org/10.1016/j.ecolmodel.2022.109876).
+* **Dillon, T.; Maurer, B; Lawson, M.J.; Polagye, B.**, 2024, "Forecast-based stochastic optimization for a load powered by wave energy", *Renewable Energy*, [https://doi.org/10.1016/j.renene.2024.120330](https://doi.org/10.1016/j.renene.2024.120330)
 
-* **Dillon, T., Maurer, B., Lawson, M., Jenne, D., Manalang, D., Baca, B., Polagye, B.**, 2022, "Cost-optimal wave-powered persistent oceanographic observation", *Renewable Energy*. [https://doi.org/10.1016/j.renene.2021.08.127](https://doi.org/10.1016/j.renene.2021.08.127).
+* **Sandhua, R., Tripp, C., Quon, E., Thedin, R., Lawson, M., Katzner, T., Brandes, D., Farmer, C., Miller, T., Draxla, C., Doubrawa, P., Williams, L., Duerr, A., Brahame, M.** 2022, "Stochastic agent-based model for predicting turbine-scale raptor movements during updraft-subsidized directional flights", *Journal of Ecological Modelling*, [https://doi.org/10.1016/j.ecolmodel.2022.109876](https://doi.org/10.1016/j.ecolmodel.2022.109876).
+
+* **Dillon, T., Maurer, B., Lawson, M., Jenne, D., Manalang, D., Baca, B., Polagye, B.**, 2022, "Cost-optimal wave-powered persistent oceano graphic observation", *Renewable Energy*, [https://doi.org/10.1016/j.renene.2021.08.127](https://doi.org/10.1016/j.renene.2021.08.127).
 
 * **Kelley, M., Tom, N., Yu, Y., Wright, A., Lawson, M.**, 2021, "Annual Performance of the Second-Generation Variable-Geometry Oscillating Surge Wave Energy Converter", *Renewable Energy*. [https://doi.org/10.1016/j.renene.2020.11.075](https://doi.org/10.1016/j.renene.2020.11.075).
 
-* **Lawson, M., Jenne, D., Thresher, R., Houck, D., Wimsatt, J., Straw, B.**, 2020, "An Investigation into the Potential for Wind Turbines to Cause Barotrauma in Bats", *PLOS ONE*. [https://doi.org/10.1371/journal.pone.0242485](https://doi.org/10.1371/journal.pone.0242485).
+* **Lawson, M., Jenne, D., Thresher, R., Houck, D., Wimsatt, J., Straw, B.**, 2020, "An Investigation into the Potential for Wind Turbines to Cause Barotrauma in Bats", *PLOS ONE*, [https://doi.org/10.1371/journal.pone.0242485](https://doi.org/10.1371/journal.pone.0242485).
 
 * **Thomas, S., Ananthan, S., Yellapantula, S., Hu, J., Lawson, M., Sprague, M.**, 2019, "A Comparison of Classical and Aggregation-Based Algebraic Multigrid Preconditioners for High-Fidelity Simulation of Wind Turbine Incompressible Flows", *SIAM Journal on Scientific Computing*, [https://doi.org/10.1137/18M1179018](https://doi.org/10.1137/18M1179018).
 

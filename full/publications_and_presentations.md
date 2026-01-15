@@ -1,4 +1,6 @@
 ## Journal Publications
+* **Niffenegger, J.S.; Brunik, K.; Peterson, K.; Simms, A.; Stewart, T.M.**; Cross, J.; Lawson, M. Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability. Clean Technol. 2026, 8, 12. [https://doi.org/10.3390/cleantechnol8010012](https://doi.org/10.3390/cleantechnol8010012)
+
 * **Niffenegger, J.S.; Brunik, K.; Deutsch, T.; Lawson, M.; Thresher, R.**, 2025, "Hybrid Energy-Powered Electrochemical Direct Ocean Capture Model", *Clean Technology*, [https://doi.org/10.3390/cleantechnol7030052](https://doi.org/10.3390/cleantechnol7030052)
 
 * **Dillon, T.; Maurer, B; Lawson, M.J.; Polagye, B.**, 2024, "Forecast-based stochastic optimization for a load powered by wave energy", *Renewable Energy*, [https://doi.org/10.1016/j.renene.2024.120330](https://doi.org/10.1016/j.renene.2024.120330)

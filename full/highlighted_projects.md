@@ -1,0 +1,21 @@
+## Highlighted Projects
+
+* **2025-Present: SEA-Stack** - Successfully proposed and serving as PI on the 3-year $3M [SEA-Stack](https://github.com/Project-SEA-Stack/HydroChrono) project, a 100% free and open-source simulation toolkit built on Project Chrono for modeling complex ocean systems. The software enables users to design and optimize wave and tidal energy systems and other offshore structures using multi-fidelity simulation methods.
+
+* **2023-Present: Tidal Energy Technology Advancement Funding Opportunity** Served as the lead technology advisor during the development of the DOE's [U.S. Tidal Energy Advancement](https://www.energy.gov/cmei/water/funding-notice-45-million-funding-opportunity-will-advance-tidal-and-current-energy) funding opportunity and continuing to serve in an advisory role to DOE on the project.
+
+* **2019: ARPA-E CT-Opt** Successfully led the proposal that was awarded a 4-year $2.1 M project by ARPA-E to develop fully open-source marine turbine modeling tools by incorporating physics models for marine turbines into the [OpenFAST wind turbine modeling code](https://openfast.readthedocs.io/en/main/).
+
+* **2018-2021: Wind Turbine-Eagle Interaction Modeling** - Successfully proposed and served as PI on a 3-year $1.5 M project apply computational methods to predict raptor (e.g., Bald and Golden Eagles) movements and behaviors in response to wind farm operations, contributing to understanding of wildlife-turbine interactions and informing operational strategies to reduce ecological impacts.
+
+* **2016-2018: Atmosphere 2 Electrons** Provided technical support and leadership to the DOE Wind Program's Atmosphere 2 Electrons program while on detail from NREL to DOE in Washington, D.C. The Atmosphere 2 was a DOE research program focused on optimizing wind energy technologies and farms by understanding atmospheric physics and improving turbine performance. A2e focused on reducing the cost of wind energy through high-performance computing, turbine wake modeling, and control systems optimization.
+
+* **2014-2017: Variable Geometry Wave Energy Converter** Successfully proposed and served as PI on a 3-year $750 K R&D project (LDRD) funded by the National Laboratory of the Rockies to study variable geometry wave energy converters that maintain high hydrodynamic performance while limiting loads.
+
+* **2013-2021: Wind Turbine-Bat Interaction Modeling** - Conducted research to understand the potential for wind turbines to cause barotrauma (i.e., rapid decompression) in bats that fly in close proximity to wind turbines. The findings of the research showed that barotrauma is unlikely to be a significant contributor to bat mortality around wind turbines, providing valuable information that helped the conservation community and wind turbine R&D community develop and perform impact assessments and mitigation strategies for wind energy development.
+
+* **2013-2015: WEC-Sim (Wave Energy Converter Simulator)** - NREL Principal Investigator for WEC-Sim. Co-lead on initial proposal to develop WEC-Sim, an open-source wave energy converter simulation tool that has been widely adopted by industry and academia since its initial release in 2014. WEC-Sim is still actively developed with DOE funds through an NREL-Sandia collaboration and the project has seen over $14 M in investment since 2013. The project received a [R&D 100 award in 2021](https://www.energy.gov/cmei/water/articles/open-source-wave-energy-wec-sim-software-receives-rd-100-award-and-contributes).
+
+* **2010-2013: Marine Energy Reference Model Project** - Served as lead for the [Reference Model 3 Tidal Turbine and Reference Model 4 Ocean Current Turbine](https://energy.sandia.gov/programs/renewable-energy/water-power/projects/reference-model-project-rmp/) development projects, delivering baseline models for marine turbines that have become the standard reference models for the marine energy industry.
+
+* **2007-2010: Canine Olfaction Research** - Conducted fundamental computational fluid dynamics and experimental studies of airflow and odorant transport phenomena in the canine nasal cavity, advancing understanding of olfactory mechanics and informing biologically-inspired sensing applications.

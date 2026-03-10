@@ -1,52 +1,54 @@
 ## Journal Publications
-* **Niffenegger, J.S.; Brunik, K.; Peterson, K.; Simms, A.; Stewart, T.M.**; Cross, J.; Lawson, M. Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability. Clean Technol. 2026, 8, 12. [https://doi.org/10.3390/cleantechnol8010012](https://doi.org/10.3390/cleantechnol8010012)
 
-* **Niffenegger, J.S.; Brunik, K.; Deutsch, T.; Lawson, M.; Thresher, R.**, 2025, "Hybrid Energy-Powered Electrochemical Direct Ocean Capture Model", *Clean Technology*, [https://doi.org/10.3390/cleantechnol7030052](https://doi.org/10.3390/cleantechnol7030052)
+* Niffenegger, J.S., Brunik, K., Peterson, K., Simms, A., Stewart, T.M., Cross, J., and **Lawson, M.** (2026). "Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability", *Clean Technologies*. [DOI: 10.3390/cleantechnol8010012](https://doi.org/10.3390/cleantechnol8010012)
 
-* **Dillon, T.; Maurer, B; Lawson, M.J.; Polagye, B.**, 2024, "Forecast-based stochastic optimization for a load powered by wave energy", *Renewable Energy*, [https://doi.org/10.1016/j.renene.2024.120330](https://doi.org/10.1016/j.renene.2024.120330)
+* Niffenegger, J.S., Brunik, K., Deutsch, T., **Lawson, M.**, and Thresher, R. (2025). "Hybrid Energy-Powered Electrochemical Direct Ocean Capture Model", *Clean Technology*. [DOI: 10.3390/cleantechnol7030052](https://doi.org/10.3390/cleantechnol7030052)
 
-* **Sandhua, R., Tripp, C., Quon, E., Thedin, R., Lawson, M., Katzner, T., Brandes, D., Farmer, C., Miller, T., Draxla, C., Doubrawa, P., Williams, L., Duerr, A., Brahame, M.** 2022, "Stochastic agent-based model for predicting turbine-scale raptor movements during updraft-subsidized directional flights", *Journal of Ecological Modelling*, [https://doi.org/10.1016/j.ecolmodel.2022.109876](https://doi.org/10.1016/j.ecolmodel.2022.109876).
+* Dillon, T., Maurer, B., **Lawson, M.**, and Polagye, B. (2024). "Forecast-based stochastic optimization for a load powered by wave energy", *Renewable Energy*. [DOI: 10.1016/j.renene.2024.120330](https://doi.org/10.1016/j.renene.2024.120330)
 
-* **Dillon, T., Maurer, B., Lawson, M., Jenne, D., Manalang, D., Baca, B., Polagye, B.**, 2022, "Cost-optimal wave-powered persistent oceano graphic observation", *Renewable Energy*, [https://doi.org/10.1016/j.renene.2021.08.127](https://doi.org/10.1016/j.renene.2021.08.127).
+* Sandhua, R., Tripp, C., Quon, E., Thedin, R., **Lawson, M.**, Katzner, T., Brandes, D., Farmer, C., Miller, T., Draxla, C., Doubrawa, P., Williams, L., Duerr, A., and Brahame, M. (2022). "Stochastic agent-based model for predicting turbine-scale raptor movements during updraft-subsidized directional flights", *Ecological Modelling*. [DOI: 10.1016/j.ecolmodel.2022.109876](https://doi.org/10.1016/j.ecolmodel.2022.109876)
 
-* **Kelley, M., Tom, N., Yu, Y., Wright, A., Lawson, M.**, 2021, "Annual Performance of the Second-Generation Variable-Geometry Oscillating Surge Wave Energy Converter", *Renewable Energy*. [https://doi.org/10.1016/j.renene.2020.11.075](https://doi.org/10.1016/j.renene.2020.11.075).
+* Dillon, T., Maurer, B., **Lawson, M.**, Jenne, D., Manalang, D., Baca, B., and Polagye, B. (2022). "Cost-optimal wave-powered persistent oceanographic observation", *Renewable Energy*. [DOI: 10.1016/j.renene.2021.08.127](https://doi.org/10.1016/j.renene.2021.08.127)
 
-* **Lawson, M., Jenne, D., Thresher, R., Houck, D., Wimsatt, J., Straw, B.**, 2020, "An Investigation into the Potential for Wind Turbines to Cause Barotrauma in Bats", *PLOS ONE*, [https://doi.org/10.1371/journal.pone.0242485](https://doi.org/10.1371/journal.pone.0242485).
+* Kelley, M., Tom, N., Yu, Y., Wright, A., and **Lawson, M.** (2021). "Annual Performance of the Second-Generation Variable-Geometry Oscillating Surge Wave Energy Converter", *Renewable Energy*. [DOI: 10.1016/j.renene.2020.11.075](https://doi.org/10.1016/j.renene.2020.11.075)
 
-* **Thomas, S., Ananthan, S., Yellapantula, S., Hu, J., Lawson, M., Sprague, M.**, 2019, "A Comparison of Classical and Aggregation-Based Algebraic Multigrid Preconditioners for High-Fidelity Simulation of Wind Turbine Incompressible Flows", *SIAM Journal on Scientific Computing*, [https://doi.org/10.1137/18M1179018](https://doi.org/10.1137/18M1179018).
+* **Lawson, M.**, Jenne, D., Thresher, R., Houck, D., Wimsatt, J., and Straw, B. (2020). "An Investigation into the Potential for Wind Turbines to Cause Barotrauma in Bats", *PLOS ONE*. [DOI: 10.1371/journal.pone.0242485](https://doi.org/10.1371/journal.pone.0242485)
 
-* **Fleming, P, Annoni, J., Churchfield, M., Martinez, T., Gruchalla, K., Lawson, M.**, 2018, "From wake steering to flow control", *Wind Energy Sciences*, [https://doi.org/10.5194/wes-3-243-2018](https://doi.org/10.5194/wes-3-243-2018).
+* Thomas, S., Ananthan, S., Yellapantula, S., Hu, J., **Lawson, M.**, and Sprague, M. (2019). "A Comparison of Classical and Aggregation-Based Algebraic Multigrid Preconditioners for High-Fidelity Simulation of Wind Turbine Incompressible Flows", *SIAM Journal on Scientific Computing*. [DOI: 10.1137/18M1179018](https://doi.org/10.1137/18M1179018)
 
-* **Tom N., Yu, Y., Wright, A., Lawson, M.**, 2017, "Balancing Power Absorption Against Structural Loads With Viscous Drag and Power-Takeoff Efficiency Considerations", *IEEE Journal of Oceanic Engineering*, [https://doi.org/10.1109/JOE.2017.2764393](https://doi.org/10.1109/JOE.2017.2764393).
+* Fleming, P., Annoni, J., Churchfield, M., Martinez, T., Gruchalla, K., and **Lawson, M.** (2018). "From wake steering to flow control", *Wind Energy Sciences*. [DOI: 10.5194/wes-3-243-2018](https://doi.org/10.5194/wes-3-243-2018)
 
-* **Tom N., Yu, Y., Wright, A., Lawson, M.**, 2017, "Pseudo-spectral control of a novel oscillating surge wave energy converter in regular waves for power optimization including load reduction", *Ocean Engineering*, [https://doi.org/10.1016/j.oceaneng.2017.03.027](https://doi.org/10.1016/j.oceaneng.2017.03.027)
+* Tom, N., Yu, Y., Wright, A., and **Lawson, M.** (2017). "Balancing Power Absorption Against Structural Loads With Viscous Drag and Power-Takeoff Efficiency Considerations", *IEEE Journal of Oceanic Engineering*. [DOI: 10.1109/JOE.2017.2764393](https://doi.org/10.1109/JOE.2017.2764393)
 
-* **Tom N., Lawson, M., Yu, Y., Wright, A.**, 2016. "Spectral Modeling of an Oscillating Surge Wave Energy Converter with Control Surfaces". *Applied Ocean Research*, [https://doi.org/10.1016/j.apor.2016.01.006](https://doi.org/10.1016/j.apor.2016.01.006).
+* Tom, N., Yu, Y., Wright, A., and **Lawson, M.** (2017). "Pseudo-spectral control of a novel oscillating surge wave energy converter in regular waves for power optimization including load reduction", *Ocean Engineering*. [DOI: 10.1016/j.oceaneng.2017.03.027](https://doi.org/10.1016/j.oceaneng.2017.03.027)
 
-* **Tom N., Lawson, M., Yu, Y., Wright, A.**, 2016. "Development of a Nearshore Oscillating Surge Wave Energy Converter with Variable Geometrys". *Renewable Energy*, [https://doi.org/10.1016/j.renene.2016.04.016](https://doi.org/10.1016/j.renene.2016.04.016).
+* Tom, N., **Lawson, M.**, Yu, Y., and Wright, A. (2016). "Spectral Modeling of an Oscillating Surge Wave Energy Converter with Control Surfaces", *Applied Ocean Research*. [DOI: 10.1016/j.apor.2016.01.006](https://doi.org/10.1016/j.apor.2016.01.006)
 
-* **Lawson, M., Craven, B., Paterson, E., and Settles, G.**, 2012. "A Computational Study of Odorant Transport and Deposition in the Canine Nasal Cavity: Implications for Olfaction". *Chemical Senses*, [https://doi.org/10.1093/chemse/bjs039](https://doi.org/10.1093/chemse/bjs039).
+* Tom, N., **Lawson, M.**, Yu, Y., and Wright, A. (2016). "Development of a Nearshore Oscillating Surge Wave Energy Converter with Variable Geometry", *Renewable Energy*. [DOI: 10.1016/j.renene.2016.04.016](https://doi.org/10.1016/j.renene.2016.04.016)
 
-* **Hargather, M., Lawson, M., Settles, G., and Weinstein, L.**, 2011. "Seedless Velocimetry Measurements by Schlieren Image Velocimetry". *American Institute of Aeronautics and Astronautics Journal*, [https://doi.org/10.2514/1.J050753](https://doi.org/10.2514/1.J050753).
+* **Lawson, M.**, Craven, B., Paterson, E., and Settles, G. (2012). "A Computational Study of Odorant Transport and Deposition in the Canine Nasal Cavity: Implications for Olfaction", *Chemical Senses*. [DOI: 10.1093/chemse/bjs039](https://doi.org/10.1093/chemse/bjs039)
 
-* **Craven, B., Paterson, E., Settles, G., and Lawson, M.**, 2009. "Development and Verification of a High-fidelity Computational Fluid Dynamics Model of Canine Nasal Airflow". *Journal of Biomechanical Engineering*, [https://doi.org/10.1115/1.3148202](https://doi.org/10.1115/1.3148202).
+* Hargather, M., **Lawson, M.**, Settles, G., and Weinstein, L. (2011). "Seedless Velocimetry Measurements by Schlieren Image Velocimetry", *AIAA Journal*. [DOI: 10.2514/1.J050753](https://doi.org/10.2514/1.J050753)
 
-* **Lawson, M., and Thole, K.**, 2008. "Heat Transfer Augmentation Along the Tube Wall of a Louvered Fin Heat Exchanger Using Practical Delta Winglets". *International Journal of Heat and Mass Transfer*, [https://doi.org/10.1016/j.ijheatmasstransfer.2007.08.016](https://doi.org/10.1016/j.ijheatmasstransfer.2007.08.016).
+* Craven, B., Paterson, E., Settles, G., and **Lawson, M.** (2009). "Development and Verification of a High-fidelity Computational Fluid Dynamics Model of Canine Nasal Airflow", *Journal of Biomechanical Engineering*. [DOI: 10.1115/1.3148202](https://doi.org/10.1115/1.3148202)
+
+* **Lawson, M.** and Thole, K. (2008). "Heat Transfer Augmentation Along the Tube Wall of a Louvered Fin Heat Exchanger Using Practical Delta Winglets", *International Journal of Heat and Mass Transfer*. [DOI: 10.1016/j.ijheatmasstransfer.2007.08.016](https://doi.org/10.1016/j.ijheatmasstransfer.2007.08.016)
 
 ## Conference Publications
-* **Wiley, W., Tran., TT, Lawson, M., & Barrington, M.**, 2023. "Computational Fluid Dynamics Study of a Cross-Flow Marine Hydrokinetic Turbine and the Combined Influence of Struts and Helical Blades". *Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2023-105021, [https://doi.org/10.1115/OMAE2023-105021](https://doi.org/10.1115/OMAE2023-105021)
 
-* **Lawson, M., Barahona Garzon, B., Wendt, F., Yu, Y., Michelen, C.**, 2015. "COER Hydrodynamic Modeling Competition: Modeling the Dynamic Response of a Floating Body Using the WEC-Sim and FAST Simulation Tools". *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2015-42288, [https://doi.org/10.1115/OMAE2015-42288](https://doi.org/10.1115/OMAE2015-42288).
+* Wiley, W., Tran, T.T., **Lawson, M.**, and Barrington, M. (2023). "Computational Fluid Dynamics Study of a Cross-Flow Marine Hydrokinetic Turbine and the Combined Influence of Struts and Helical Blades", *Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2023-105021. [DOI: 10.1115/OMAE2023-105021](https://doi.org/10.1115/OMAE2023-105021)
 
-* **Tom N., Yu, Y., Wright, A., Lawson, M.**, 2016. "Balancing Power Absorption and Fatigue Loads in Irregular Waves for an Oscillating Surge Wave Energy Converter". *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2016-55046, [https://doi.org/10.1115/OMAE2016-55046](https://doi.org/10.1115/OMAE2016-55046).
+* **Lawson, M.**, Barahona Garzon, B., Wendt, F., Yu, Y., and Michelen, C. (2015). "COER Hydrodynamic Modeling Competition: Modeling the Dynamic Response of a Floating Body Using the WEC-Sim and FAST Simulation Tools", *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2015-42288. [DOI: 10.1115/OMAE2015-42288](https://doi.org/10.1115/OMAE2015-42288)
 
-* **Quon, E., Platt, A., Yu, Y., Lawson, M.**, 2016. "Application of the Most Likely Extreme Response Method for Wave Energy Converters". *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2016-54751, [https://doi.org/10.1115/OMAE2016-54751](https://doi.org/10.1115/OMAE2016-54751).
+* Tom, N., Yu, Y., Wright, A., and **Lawson, M.** (2016). "Balancing Power Absorption and Fatigue Loads in Irregular Waves for an Oscillating Surge Wave Energy Converter", *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2016-55046. [DOI: 10.1115/OMAE2016-55046](https://doi.org/10.1115/OMAE2016-55046)
 
-* **Tom N., Lawson, M., Yu, Y.**, 2015. "Recent Additions in the Modeling Capabilities of an Open-Source Wave Energy Converter Design Tool". *Proceedings of the Twenty-Fifth International Ocean and Polar Engineering Conference*, pp. 835-842. [https://www.osti.gov/biblio/1215174](https://www.osti.gov/biblio/1215174)
+* Quon, E., Platt, A., Yu, Y., and **Lawson, M.** (2016). "Application of the Most Likely Extreme Response Method for Wave Energy Converters", *Proceedings of the ASME 35th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2016-54751. [DOI: 10.1115/OMAE2016-54751](https://doi.org/10.1115/OMAE2016-54751)
 
-* **Yu, Y., Van Rij, J., Coe, R., Lawson, M**, 2015. "Preliminary Wave Energy Converters Extreme Load Analysis". *Proceedings of the ASME 34th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2015-41532, [https://doi.org/10.1115/OMAE2014-24312](https://doi.org/10.1115/OMAE2014-24312).
+* Tom, N., **Lawson, M.**, and Yu, Y. (2015). "Recent Additions in the Modeling Capabilities of an Open-Source Wave Energy Converter Design Tool", *Proceedings of the Twenty-Fifth International Ocean and Polar Engineering Conference*, pp. 835-842. [https://www.osti.gov/biblio/1215174](https://www.osti.gov/biblio/1215174)
 
-* **Lawson, M., Yu, Y., Nelessen, A., Ruehl, K., Michelen, C**, 2014. "Implementing Nonlinear Buoyancy and Excitation Forces in the WEC-Sim Wave Energy Converter Modeling Tool". *Proceedings of the ASME 33rd International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2014-24445, [https://doi.org/10.1115/OMAE2014-24445](https://doi.org/10.1115/OMAE2014-24445).
+* Yu, Y., Van Rij, J., Coe, R., and **Lawson, M.** (2015). "Preliminary Wave Energy Converters Extreme Load Analysis", *Proceedings of the ASME 34th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2015-41532. [DOI: 10.1115/OMAE2014-24312](https://doi.org/10.1115/OMAE2014-24312)
+
+* **Lawson, M.**, Yu, Y., Nelessen, A., Ruehl, K., and Michelen, C. (2014). "Implementing Nonlinear Buoyancy and Excitation Forces in the WEC-Sim Wave Energy Converter Modeling Tool", *Proceedings of the ASME 33rd International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2014-24445. [DOI: 10.1115/OMAE2014-24445](https://doi.org/10.1115/OMAE2014-24445)
 
 * **Ruehl, K., Michelen, C., Kanner, S., Lawson, M., Yu, Y.**, 2014. "Preliminary Verification and Validation of WEC-Sim, an Open-Source Wave Energy Converter Design Tool". *Proceedings of the ASME 33rd International Conference on Ocean, Offshore and Arctic Engineering*, [https://doi.org/10.1115/OMAE2014-24312](https://doi.org/10.1115/OMAE2014-24312).
 

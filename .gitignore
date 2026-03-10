@@ -1,5 +1,35 @@
+# LaTeX auxiliary files
 *.log
 *.out
 *.aux
 *.gz
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Generated outputs
+*.pdf
+*.html
+resume-styled.html
+
+# Word documents (if generating docx)
+*.docx
+
+# macOS (already has this)
 .DS_Store
+
+# Editor/IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak

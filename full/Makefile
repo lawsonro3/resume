@@ -10,13 +10,18 @@ SOURCES = intro.md \
           patents.md \
           personal_interests.md
 
-all: pdf html
+all: pdf html README
 
 pdf: resume.pdf
 
 html: resume.html
 
+README: README.md
+
 resume-styled: resume-styled.html
+
+README.md: $(SOURCES)
+	cat $(SOURCES) > ../README.md 
 
 resume.pdf: $(SOURCES)
 	pandoc $(SOURCES) -o Michael_Lawson_Resume.pdf --pdf-engine=pdflatex \
@@ -38,6 +43,6 @@ resume-styled.html: $(SOURCES)
 		--toc-depth=2
 
 clean:
-	rm -f Michael_Lawson_Resume.pdf Michael_Lawson_Resume.html Michael_Lawson_Resume-styled.html
+	rm -f Michael_Lawson_Resume.pdf Michael_Lawson_Resume.html Michael_Lawson_Resume-styled.html ../README.md
 
-.PHONY: all pdf html resume-styled clean
+.PHONY: all pdf html resume-styled README clean

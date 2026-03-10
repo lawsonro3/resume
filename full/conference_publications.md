@@ -14,6 +14,8 @@
 
 * **Lawson, M.**, Yu, Y., Nelessen, A., Ruehl, K., and Michelen, C. (2014). "Implementing Nonlinear Buoyancy and Excitation Forces in the WEC-Sim Wave Energy Converter Modeling Tool", *Proceedings of the ASME 33rd International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2014-24445. [DOI:10.1115/OMAE2014-24445](https://doi.org/10.1115/OMAE2014-24445)
 
+* Neary, V., Previsic, M., Jepsen, R., **Lawson, M.**, Yu, Y., Copping, A., Fontaine, A., Hallett, K., and Murray, D. (2014). "Methodology for Design and Economic Analysis of Marine Energy Conversion (MEC) Technologies", *Proceedings of the 2nd Marine Energy Technology Symposium*. [https://www.osti.gov/servlets/purl/1143279](https://www.osti.gov/servlets/purl/1143279)
+
 * Ruehl, K., Michelen, C., Kanner, S., **Lawson, M.**, and Yu, Y. (2014). "Preliminary Verification and Validation of WEC-Sim, an Open-Source Wave Energy Converter Design Tool", *Proceedings of the ASME 33rd International Conference on Ocean, Offshore and Arctic Engineering*. [DOI:10.1115/OMAE2014-24312](https://doi.org/10.1115/OMAE2014-24312)
 
 * Beam, M., Kline, B., Elbing, B., Fontaine, A., **Lawson, M.**, Thresher, R., and Li, Y. (2012). "Marine Hydrokinetic Turbine Power-Take-Off Design for Optimal Performance and Low Impact on Cost-of-Energy", *Proceedings of the ASME 34th International Conference on Ocean, Offshore and Arctic Engineering*, Paper No. OMAE2013-10701. [DOI:10.1115/OMAE2013-10701](https://doi.org/10.1115/OMAE2013-10701)

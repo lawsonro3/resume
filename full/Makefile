@@ -16,19 +16,21 @@ pdf: resume.pdf
 
 html: resume.html
 
+resume-styled: resume-styled.html
+
 resume.pdf: $(SOURCES)
-	pandoc $(SOURCES) -o resume.pdf --pdf-engine=pdflatex \
+	pandoc $(SOURCES) -o Michael_Lawson_Resume.pdf --pdf-engine=pdflatex \
 		-V geometry=margin=0.75in \
 		-V colorlinks=true \
 		-V linkcolor=blue \
 		-V urlcolor=blue
 
 resume.html: $(SOURCES)
-	pandoc $(SOURCES) -o resume.html --embed-resources --standalone --css=resume.css
+	pandoc $(SOURCES) -o Michael_Lawson_Resume.html --embed-resources --standalone --css=resume.css
 
 # HTML with nice styling and table of contents
 resume-styled.html: $(SOURCES)
-	pandoc $(SOURCES) -o resume-styled.html \
+	pandoc $(SOURCES) -o Michael_Lawson_Resume-styled.html \
 		--embed-resources \
 		--standalone \
 		--css=resume.css \
@@ -36,6 +38,6 @@ resume-styled.html: $(SOURCES)
 		--toc-depth=2
 
 clean:
-	rm -f resume.pdf resume.html resume-styled.html
+	rm -f Michael_Lawson_Resume.pdf Michael_Lawson_Resume.html Michael_Lawson_Resume-styled.html
 
-.PHONY: all pdf html clean
+.PHONY: all pdf html resume-styled clean

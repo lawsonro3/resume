@@ -2,7 +2,11 @@
 
 Group Manager | Senior Scientist | Marine Energy Platform Lead  
 National Laboratory of the Rockies  
+<<<<<<< HEAD
 <michael.lawson@nlr.gov> | +1-303-927-8552  
+=======
+michael.lawson@nlr.gov  
+>>>>>>> 041703ee738e9837084aa61eab7c8b99fe4d33b1
 [ORCID](https://orcid.org/0000-0003-3853-7500) | [Google Scholar](https://scholar.google.com/citations?user=Ndlq5TIAAAAJ&hl=en)
 ## Education
 

@@ -1,7 +1,8 @@
 # Michael J. Lawson
+
 Group Manager | Senior Scientist | Marine Energy Platform Lead  
 National Laboratory of the Rockies  
-michael.lawson@nlr.gov | +1-303-927-8552  
+<michael.lawson@nlr.gov> | +1-303-927-8552  
 [ORCID](https://orcid.org/0000-0003-3853-7500) | [Google Scholar](https://scholar.google.com/citations?user=Ndlq5TIAAAAJ&hl=en)
 ## Education
 
@@ -18,13 +19,14 @@ michael.lawson@nlr.gov | +1-303-927-8552
 * **2005: B.S., Virginia Tech, Mechanical Engineering**
 
 ## Experience
-* **2022-Present: Group Manager | Senior Scientist | Marine Energy Platform Lead**    
+
+* **2022-Present: Group Manager | Senior Scientist | Marine Energy Platform Lead**
 *Water Power Program | National Laboratory of the Rockies | Golden, CO*
 
   * Providing technical and strategic leadership for the $20M+ marine energy R&D portfolio at NREL.
   * Leading a team of scientists and engineers focused on advancing marine energy technologies.
 
-* **2015-Present: Technical Advisor**    
+* **2015-Present: Technical Advisor**
 *Hydropower and Hydrokinetic Office | U.S. Department of Energy | Washington, D.C. & Golden, CO*
 
   * Serving as a technical advisor to the Hydropower and Hydrokinetic Office (formerly the Water Po wer Technologies Office).
@@ -32,14 +34,14 @@ michael.lawson@nlr.gov | +1-303-927-8552
   * Supported the development of a U.S. strategy for advancing wave and tidal, ocean, and river current energy technologies.
   * Serving as the lead technical advisor on DOE funding opportunities to develop wave and tidal/ocean/river current technologies.
 
-* **2017-2022: Senior Scientist | Marine Energy Platform Lead**    
+* **2017-2022: Senior Scientist | Marine Energy Platform Lead**
 *Wind and Water Power Program | National Renewable Energy Laboratory | Golden, CO*
 
   * Helped guide the expansion of the NREL Water Power Program from 15 full-time staff in 2017 to more than 30 full-time staff in 2021.
   * Led modeling projects studying how wind turbines interact with various bat and raptor species.
   * Contributed to the development of exascale wind farm modeling tools and studied wind turbine wake propagation.
 
-* **2016-2017: Technical Advisor**    
+* **2016-2017: Technical Advisor**
 *Wind Power Technologies Office | U.S. Department of Energy | Washington, D.C.*
 
   * Served as a technical advisor (M&O contractor) to the DOE Wind program.
@@ -47,30 +49,30 @@ michael.lawson@nlr.gov | +1-303-927-8552
   * Supported the development of a U.S. strategy for advancing wave and tidal, ocean, and river current energy technologies.
   * Served as the lead technical advisor on DOE funding opportunities to develop wave and tidal/ocean/river current technologies.
 
-* **2012-2014: Scientist**    
+* **2012-2014: Scientist**
 *Water Power Program | National Renewable Energy Laboratory | Golden, CO*
 
   * Served as the NREL marine energy modeling lead working to develop modeling tools and marine energy technologies.
   * Led development of WEC-Sim at NREL.
   * Performed techno-economic evaluations of numerous marine energy technologies.
 
-* **2010-2012: Postdoctoral Researcher**    
+* **2010-2012: Postdoctoral Researcher**
 *Water Power Program | National Renewable Energy Laboratory | Golden, CO*
 
   * Developed a new version of the axial-flow rotor optimization and computational fluid dynamics (CFD) tools for tidal turbines.
   * Led the development of the Reference Model 3 Tidal Turbine.
 
-* **2007-2010: National Defense Science and Engineering Graduate Fellow**    
+* **2007-2010: National Defense Science and Engineering Graduate Fellow**
 *Gas Dynamics Lab and U.S. Navy Applied Research Lab | Penn State | University Park, PA.*
 
   * Studied the fluid dynamics of canine olfaction using experimental and computational methods.
 
-* **2006-2007: Contractor**    
+* **2006-2007: Contractor**
 *Aerodynamics Division | BMW | Munich, Germany*
 
   * Performed vehicle aerodynamics R&D.
 
-* **2005-2006: Graduate Research Assistant**    
+* **2005-2006: Graduate Research Assistant**
 *Experimental and Computational Combustion Lab | Virginia Tech | Blacksburg, VA*
 
   * Studied methods to enhance heat exchanger performance using vortex generators.
@@ -94,7 +96,8 @@ michael.lawson@nlr.gov | +1-303-927-8552
 
 * **2010-2013: Marine Energy Reference Model Project** - Served as lead for the [Reference Model 3 Tidal Turbine and Reference Model 4 Ocean Current Turbine](https://energy.sandia.gov/programs/renewable-energy/water-power/projects/reference-model-project-rmp/) development projects, delivering baseline models for marine turbines that have become the standard reference models for the marine energy industry.
 
-* **2007-2010: Canine Olfaction Research** - Conducted fundamental computational fluid dynamics and experimental studies of airflow and odorant transport phenomena in the canine nasal cavity, advancing understanding of olfactory mechanics and informing biologically-inspired sensing applications.## Journal Publications
+* **2007-2010: Canine Olfaction Research** - Conducted fundamental computational fluid dynamics and experimental studies of airflow and odorant transport phenomena in the canine nasal cavity, advancing understanding of olfactory mechanics and informing biologically-inspired sensing applications.
+## Journal Publications
 
 * Niffenegger, J.S., Brunik, K., Peterson, K., Simms, A., Stewart, T.M., Cross, J., and **Lawson, M.** (2026). "Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability", *Clean Technologies*. [DOI:10.3390/cleantechnol8010012](https://doi.org/10.3390/cleantechnol8010012)
 
@@ -183,5 +186,16 @@ michael.lawson@nlr.gov | +1-303-927-8552
 
 * **2013: Marine Energy Technology Symposium (METS)** - Founder of METS in 2013. METS is the premier US marine energy conference. Hosted bi-annually, this conference brings together researchers, engineers, and industry professionals to advance marine renewable energy technologies and foster collaboration within the marine energy community.
 
-## Patents
+## Awards
+
+* NREL & NLR Awards
+  * 2021: NREL Chariperson's Award.
+  * 2015: Outstanting Science Undergraduate Laboratory Intern (SULI) Outstanding Mentor Award
+  * 2014: Outstanting Science Undergraduate Laboratory Intern (SULI) Outstanding Mentor Award
+  * 2013: Outstanting Science Undergraduate Laboratory Intern (SULI) Outstanding Mentor Award
+  * 2012: Outstanting Science Undergraduate Laboratory Intern (SULI) Outstanding Mentor Award
+  * 2012: NREL Director's Award
+
+* Professional Awards
+  * 2015: Offshore Mechanics and Offshore Engineering (OMAE) Hydrodynamic Modelling Competition Winner## Patents
 * **Thresher, R., Lawson, M., Tom, N., Cotrell, J., Yu, Y., and Wright, A.,** 2020. "Wave energy conversion incorporating actuated geometry". US Patent No. 10,662,918. [https://www.osti.gov/biblio/1650946-wave-energy-conversion-incorporating-actuated-geometry](https://www.osti.gov/biblio/1650946-wave-energy-conversion-incorporating-actuated-geometry)

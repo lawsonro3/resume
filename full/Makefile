@@ -7,6 +7,7 @@ SOURCES = intro.md \
           conference_publications.md \
           technical_reports.md \
           professional_activities.md \
+          awards.md \
           patents.md \
           personal_interests.md
 

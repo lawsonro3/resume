@@ -2,11 +2,7 @@
 
 Group Manager | Senior Scientist | Marine Energy Platform Lead  
 National Laboratory of the Rockies  
-<<<<<<< HEAD
-<michael.lawson@nlr.gov> | +1-303-927-8552  
-=======
-michael.lawson@nlr.gov  
->>>>>>> 041703ee738e9837084aa61eab7c8b99fe4d33b1
+michael.lawson@nlr.gov> | +1-303-927-8552
 [ORCID](https://orcid.org/0000-0003-3853-7500) | [Google Scholar](https://scholar.google.com/citations?user=Ndlq5TIAAAAJ&hl=en)
 ## Education
 
@@ -102,6 +98,8 @@ michael.lawson@nlr.gov
 
 * **2007-2010: Canine Olfaction Research** - Conducted fundamental computational fluid dynamics and experimental studies of airflow and odorant transport phenomena in the canine nasal cavity, advancing understanding of olfactory mechanics and informing biologically-inspired sensing applications.
 ## Journal Publications
+
+* Yarbrough, J., Cunitz, I., Schipper, J., Ryu, S., **Lawson, M.**, Straw, B., Hein, C., and Cryan, P. (2026). "A deep-learning based approach to detect and classify animals flying near wind turbines using thermal surveillance cameras and open-source software", *Ecological Informatics*. [DOI:10.1016/j.ecoinf.2026.103909](https://doi.org/10.1016/j.ecoinf.2026.103909)
 
 * Niffenegger, J.S., Brunik, K., Peterson, K., Simms, A., Stewart, T.M., Cross, J., and **Lawson, M.** (2026). "Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability", *Clean Technologies*. [DOI:10.3390/cleantechnol8010012](https://doi.org/10.3390/cleantechnol8010012)
 

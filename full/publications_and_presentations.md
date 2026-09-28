@@ -1,5 +1,7 @@
 ## Journal Publications
 
+* Yarbrough, J., Cunitz, I., Schipper, J., Ryu, S., **Lawson, M.**, Straw, B., Hein, C., and Cryan, P. (2026). "A deep-learning based approach to detect and classify animals flying near wind turbines using thermal surveillance cameras and open-source software", *Ecological Informatics*. [DOI: 10.1016/j.ecoinf.2026.103909](https://doi.org/10.1016/j.ecoinf.2026.103909)
+
 * Niffenegger, J.S., Brunik, K., Peterson, K., Simms, A., Stewart, T.M., Cross, J., and **Lawson, M.** (2026). "Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability", *Clean Technologies*. [DOI: 10.3390/cleantechnol8010012](https://doi.org/10.3390/cleantechnol8010012)
 
 * Niffenegger, J.S., Brunik, K., Deutsch, T., **Lawson, M.**, and Thresher, R. (2025). "Hybrid Energy-Powered Electrochemical Direct Ocean Capture Model", *Clean Technology*. [DOI: 10.3390/cleantechnol7030052](https://doi.org/10.3390/cleantechnol7030052)

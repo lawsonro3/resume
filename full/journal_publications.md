@@ -4,13 +4,13 @@
 
 * Niffenegger, J.S., Brunik, K., Peterson, K., Simms, A., Stewart, T.M., Cross, J., and **Lawson, M.** (2026). "Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability", *Clean Technologies*. [DOI:10.3390/cleantechnol8010012](https://doi.org/10.3390/cleantechnol8010012)
 
-* Niffenegger, J.S., Brunik, K., Deutsch, T., **Lawson, M.**, and Thresher, R. (2025). "Hybrid Energy-Powered Electrochemical Direct Ocean Capture Model", *Clean Technology*. [DOI:10.3390/cleantechnol7030052](https://doi.org/10.3390/cleantechnol7030052)
+* Niffenegger, J.S., Brunik, K., Deutsch, T., **Lawson, M.**, and Thresher, R. (2025). "Hybrid Energy-Powered Electrochemical Direct Ocean Capture Model", *Clean Technologies*. [DOI:10.3390/cleantechnol7030052](https://doi.org/10.3390/cleantechnol7030052)
 
 * Dillon, T., Maurer, B., **Lawson, M.**, and Polagye, B. (2024). "Forecast-based stochastic optimization for a load powered by wave energy", *Renewable Energy*. [DOI:10.1016/j.renene.2024.120330](https://doi.org/10.1016/j.renene.2024.120330)
 
-* Sandhua, R., Tripp, C., Quon, E., Thedin, R., **Lawson, M.**, Katzner, T., Brandes, D., Farmer, C., Miller, T., Draxla, C., Doubrawa, P., Williams, L., Duerr, A., and Brahame, M. (2022). "Stochastic agent-based model for predicting turbine-scale raptor movements during updraft-subsidized directional flights", *Ecological Modelling*. [DOI:10.1016/j.ecolmodel.2022.109876](https://doi.org/10.1016/j.ecolmodel.2022.109876)
+* Sandhu, R., Tripp, C., Quon, E., Thedin, R., **Lawson, M.**, Brandes, D., Farmer, C.J., Miller, T.A., Draxl, C., Doubrawa, P., Williams, L., Duerr, A.E., Braham, M.A., and Katzner, T. (2022). "Stochastic agent-based model for predicting turbine-scale raptor movements during updraft-subsidized directional flights", *Ecological Modelling*. [DOI:10.1016/j.ecolmodel.2022.109876](https://doi.org/10.1016/j.ecolmodel.2022.109876)
 
-* Dillon, T., Maurer, B., **Lawson, M.**, Jenne, D., Manalang, D., Baca, B., and Polagye, B. (2022). "Cost-optimal wave-powered persistent oceanographic observation", *Renewable Energy*. [DOI:10.1016/j.renene.2021.08.127](https://doi.org/10.1016/j.renene.2021.08.127)
+* Dillon, T., Maurer, B., **Lawson, M.**, Jenne, D., Manalang, D., Baca, E., and Polagye, B. (2022). "Cost-optimal wave-powered persistent oceanographic observation", *Renewable Energy*. [DOI:10.1016/j.renene.2021.08.127](https://doi.org/10.1016/j.renene.2021.08.127)
 
 * Kelley, M., Tom, N., Yu, Y., Wright, A., and **Lawson, M.** (2021). "Annual Performance of the Second-Generation Variable-Geometry Oscillating Surge Wave Energy Converter", *Renewable Energy*. [DOI:10.1016/j.renene.2020.11.075](https://doi.org/10.1016/j.renene.2020.11.075)
 
@@ -18,7 +18,7 @@
 
 * Thomas, S., Ananthan, S., Yellapantula, S., Hu, J., **Lawson, M.**, and Sprague, M. (2019). "A Comparison of Classical and Aggregation-Based Algebraic Multigrid Preconditioners for High-Fidelity Simulation of Wind Turbine Incompressible Flows", *SIAM Journal on Scientific Computing*. [DOI:10.1137/18M1179018](https://doi.org/10.1137/18M1179018)
 
-* Fleming, P., Annoni, J., Churchfield, M., Martinez, T., Gruchalla, K., and **Lawson, M.** (2018). "From wake steering to flow control", *Wind Energy Sciences*. [DOI:10.5194/wes-3-243-2018](https://doi.org/10.5194/wes-3-243-2018)
+* Fleming, P., Annoni, J., Churchfield, M., Martinez-Tossas, L.A., Gruchalla, K., and **Lawson, M.** (2018). "A simulation study demonstrating the importance of large-scale trailing vortices in wake steering", *Wind Energy Science*. [DOI:10.5194/wes-3-243-2018](https://doi.org/10.5194/wes-3-243-2018)
 
 * Tom, N., Yu, Y., Wright, A., and **Lawson, M.** (2017). "Balancing Power Absorption Against Structural Loads With Viscous Drag and Power-Takeoff Efficiency Considerations", *IEEE Journal of Oceanic Engineering*. [DOI:10.1109/JOE.2017.2764393](https://doi.org/10.1109/JOE.2017.2764393)
 
